@@ -13,7 +13,6 @@ excerpt: "Building secure cloud infrastructures and solving real-world cyber cha
 author_profile: true
 author: Tracy Too
 header:
-  overlay_image: /assets/images/header-bg.jpg
   overlay_filter: "0.4"
   overlay_color: "#000"
   Background: Tech-themed"
