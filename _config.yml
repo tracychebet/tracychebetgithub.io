@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: MM
-email:
+email: tchebet2@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A detailed oriented Cybersecurity Engineer with a experience as a Coporate Security at Safaricom PLC, Cloud and Network security. 
   Passionate about solving real world cyber challenges and continually expanding technical expertise through labs and certifications.
@@ -59,20 +59,17 @@ plugins:
 author:
   name   : "Tracy Too"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Cloud and Network"
+  bio    : "Cloud and Network Security"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/tracy-chebet-too"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tracychebet"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Credly"
+      icon: "fab fa-fw fa-certificate"
+      url: "https://www.credly.com/users/tracy-chebet"
 
 footer:
   links:
