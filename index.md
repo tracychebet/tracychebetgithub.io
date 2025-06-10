@@ -3,7 +3,7 @@ layout: splash
 title: "Cybersecurity & Cloud Engineer"
 excerpt: "Building secure cloud infrastructures and solving real-world cyber challenges."
 author_profile: true
-author: tracy
+author: Tracy Too
 header:
   overlay_image: /assets/images/header-bg.jpg
   overlay_filter: "0.4"
