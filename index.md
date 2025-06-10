@@ -3,11 +3,12 @@ layout: splash
 title: "Cybersecurity & Cloud Engineer"
 excerpt: "Building secure cloud infrastructures and solving real-world cyber challenges."
 author_profile: true
+author: tracy
 header:
   overlay_image: /assets/images/header-bg.jpg
   overlay_filter: "0.4"
   overlay_color: "#000"
-  caption: "Photo by [Your Name or Photographer], Background: Tech-themed"
+  Background: Tech-themed"
   cta_label: "View My Projects"
   cta_url: "#projects"
   cta_class: "btn btn--primary"
