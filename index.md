@@ -6,20 +6,6 @@ layout: home
 author_profile: true
 ---
 ---
----
-layout: home
-title: "Cybersecurity & Cloud Engineer"
-excerpt: "Building secure cloud infrastructures and solving real-world cyber challenges."
-author_profile: true
-author: Tracy Too
-header:
-  overlay_filter: "0.4"
-  overlay_color: "#000"
-  Background: Tech-themed"
-  cta_label: "View My Projects"
-  cta_url: "#projects"
-  cta_class: "btn btn--primary"
----
 
 ## 👨‍💻 About Me
 
