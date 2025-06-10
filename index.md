@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: home
 title: "Cybersecurity & Cloud Engineer"
 excerpt: "Building secure cloud infrastructures and solving real-world cyber challenges."
 author_profile: true
