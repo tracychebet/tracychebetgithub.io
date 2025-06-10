@@ -112,3 +112,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+# Custom navigation links (optional override for default)
+main:
+  - title: "About"
+    url: /about/
+  # You can add more links here if desired, or leave only "About"
