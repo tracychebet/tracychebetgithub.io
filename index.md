@@ -1,4 +1,12 @@
 ---
+# You don't need to edit this file, it's empty on purpose.Add commentMore actions
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+author_profile: true
+---
+---
+---
 layout: home
 title: "Cybersecurity & Cloud Engineer"
 excerpt: "Building secure cloud infrastructures and solving real-world cyber challenges."
